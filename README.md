@@ -60,6 +60,7 @@ Recommended orders leads to order screen
 
 
 [BONUS] Digital Wireframes & Mockups
+![](https://github.com/oronadavid/ClearCase/blob/main/Checkout.png "Checkout page")
 [BONUS] Interactive Prototype
 Schema
 Models
